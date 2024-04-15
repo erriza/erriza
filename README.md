@@ -1,8 +1,5 @@
 <div align="center">
-
-[![Hello World! I'm Erick!]]
-Background GIF by [Pinteres](https://www.pinterest.com.mx/pin/985231163030703/) on [Pinterest](https://www.pinterest.com/).
-
+![Gif](https://github.com/erriza/erriza/assets/32953639/1ac2776a-8e87-45aa-8be3-119fac2aa3c6)
 
 ## 👋About Me:
 -🔭 Working on become a FullStack Engineer, Cloud **frontend skills**.<br>
@@ -50,7 +47,6 @@ Background GIF by [Pinteres](https://www.pinterest.com.mx/pin/985231163030703/) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
